@@ -1,9 +1,0 @@
-src-git packages https://git.openwrt.org/feed/packages.git;openwrt-23.05
-src-git luci https://git.openwrt.org/project/luci.git;openwrt-23.05
-src-git routing https://git.openwrt.org/feed/routing.git;openwrt-23.05
-src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-23.05
-
-
-src-git istore https://github.com/linkease/istore;main
-src-git nas https://github.com/linkease/nas-packages.git;master
-src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main
